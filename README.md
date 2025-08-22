@@ -15,4 +15,4 @@ Cada script representa uma situação real aplicada com expressões regulares:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/LeandroCabralLC/EXERCICIO_REGEX.git
